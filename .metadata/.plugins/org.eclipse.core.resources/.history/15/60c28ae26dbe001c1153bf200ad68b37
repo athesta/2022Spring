@@ -1,0 +1,39 @@
+package Sandbox;
+
+public class chess {
+
+	public static void main(String[] args) {
+		String [][] Chess;
+		Chess = new String [8][8];
+			
+		String bl = "Black";
+		String wh = "White";
+		String ro = "Rook";
+		String kn = "Knight";
+		String bi = "Bishop";
+		String qu = "Queen";
+		String ki = "King";
+		String pa = "Pawn";
+		
+		
+		Chess[0][0] = bl+" "+ro;
+		Chess[0][1] = bl+" "+kn;
+		Chess[0][2] = bl+" "+bi;
+		Chess[0][3] = bl+" "+qu; 
+		Chess[0][4] = bl+" "+ki; 
+		Chess[0][5] = Chess[0][2]; 
+		Chess[0][6] = Chess[0][1]; 
+		Chess[0][7] = Chess[0][0]; 
+		Chess [1] = new String [] {bl+ " " +pa};
+		
+		
+		
+		
+		
+		System.out.println(Chess[1]);
+				
+		
+
+	}
+
+}

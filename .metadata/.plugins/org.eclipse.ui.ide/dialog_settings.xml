@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson14\EventHandlingDemo2"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson14\EventHandlingDemo1"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson14"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\SpringProjects\Assignment_4"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson13\MethodOverridingUsingSuperDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson13\MethodOverridingDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson13\DerivedClassConstructionDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson13\ProtectedMembersDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson13"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson13\DefaultConstructionAndInheritanceDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson11\ClassesWithArrayOfObjectsDynamicDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson11\ClassesWithArrayOfObjectsDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson11\ArrayOfClassObjectsDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson11\ClassesWithArrayMembersDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson10\PartiallyFilledArrayDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson10\ArraysAsReturnTypesDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson10\ArrayComparisonUsingMethodsDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson10\ArraysAsParametersDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson09\ArrayComparisonDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson09\ParallelArraysDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson09\ArrayReadingElementsSequentiallyDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson09\ArraySequentialProcessingDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson08\ArrayAssignmentDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson08\ArraysOfPrimitiveDataTypeDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson07\PackageDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson07\ToStringDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson06\CopyConstructorDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson06\ConstructorsDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson05\PublicVsPrivateMembersDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson05\UserDefinedClassesDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson05\UMLDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson04\methodOverloadingDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson04\ScopeOfIdentifiersDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson04\primitiveVsReferenceDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson03\increamentalDevelopmentDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson03\valueReturningMethodDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson03\voidMethodWithParametersDemo3"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson02\mostBasciMethodDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson02\PredefinedClassesDemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson01\FileIODemo"/>
+			<item value="D:\Personal Files\Documents\My Documents\College\2022 Spring\APC 350 - Program2\APC350_Demo_Files\Lesson01\JOptionPaneDemo-20180111T181212Z-001\JOptionPaneDemo"/>
+		</list>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="457"/>
+		<item key="DIALOG_Y_ORIGIN" value="133"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="580"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="org.eclipse.text.quicksearch.internal.ui.QuickSearchDialog.DIALOG_SETTINGS">
+		<item key="LAST_QUERY" value="doubleThe"/>
+		<item key="PATH_FILTER" value=""/>
+		<item key="CASE_SENSITIVE" value="true"/>
+		<item key="KEEP_OPEN" value="false"/>
+		<list key="COLUMN_WIDTHS">
+			<item value="40"/>
+			<item value="400"/>
+			<item value="120"/>
+		</list>
+		<list key="SASH_WEIGHTS">
+			<item value="714"/>
+			<item value="285"/>
+		</list>
+		<section name="DialogBoundsSettings">
+			<item key="DIALOG_HEIGHT" value="500"/>
+			<item key="DIALOG_WIDTH" value="600"/>
+			<item key="DIALOG_X_ORIGIN" value="860"/>
+			<item key="DIALOG_Y_ORIGIN" value="366"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+</section>

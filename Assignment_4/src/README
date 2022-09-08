@@ -1,0 +1,55 @@
+Jennifer Swofford
+APC 350, Assignment 4
+
+Requirements & Info:
+Create an interactive dictionary
+	*User will have the ability to load words into the dictionary from a file
+	*User can add/remove words from dictionary
+	*User can spell check a word 
+	*User can look for suggested words for incorrectly spelled word
+	*All operations are case-insensitive
+	
+Dictionary is an array of Strings
+	*Each element represents a word 
+	*Capacity=number of words the dictionary can store
+	*numWords=number of words Currently in the dictionary
+
+Technical Info:
+	*Public class Dictionary: Creates and maintains a dictionary and provides the users the ability to spell check words and request suggestions for miss-spelled words.
+		>Private data members:
+			words: An array of Strings that hold the words in the dictionary
+			capacity: The current capacity of the dictionary in terms of the number of words it can store
+			numWordsInDictionary: Number of words currently stored in the dictionary
+		>Private methods:
+			doubleTheSize: Doubles the current capacity of the dictionary.
+			matched: Given two strings, it will return true if the two string are close to each other. 
+				*Closeness is measured in terms of the number of characters that are matched. 
+				*For the purpose of this assignment: 
+					return true if the two string have three characters that match in the exact manner 
+					For example, ping, ding, and dinging will match, while ping and pring will not match.
+		>Public data members: None
+		>public methods :
+			>>constructors:
+				public Dictionary(): Creates an empty dictionary of capacity 2
+				public Dictionary(int capacity): Creates an empty dictionary of the specified capacity
+			findWord: Takes a word string as input and looks it up in the dictionary. 
+				If the word is found the index of the word is returned; 
+				if the word is not found a -1 is returned.
+			addWord: Takes a word string and adds it to the dictionary. 
+				If the word is not in the dictionary, it will check the size of the dictionary
+					if there is no more room to add, it will double the capacity of the dictionary. 
+					It will then add the word to the dictionary. 
+				If the word is already in the dictionary, no action will be taken.
+			removeWord: Takes a word string and removes it from the dictionary. 
+				If the word is in the dictionary, it will remove it 
+					It will rearrange the dictionary such that only low index rows would have words attached to them 
+					the rest of the rows have a NULL pointer
+				If the word is not in the dictionary, no action is taken.
+			suggest: Takes a word string and looks up all the words in the dictionary that are close to it. 
+				It will use the matched method to check for the closeness of the words. 
+					This method returns a string that holds all the matched words found. 
+					If no matched words are found an empty string is returned.
+			loadDictionary: This method will load words from a text file & store them in the dictionary. 
+				Assumes words are separated by a white space.
+			saveDictionary: This method will save the words in the dictionary to a text file 
+				one word per line

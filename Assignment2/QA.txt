@@ -1,0 +1,13 @@
+
+Hours Worked: 10.0
+Pay Rate:     $10.00
+Gross Salary: $100.00
+Taxes:        $ 5.00
+Net Income:   $15.00
+
+Hours Worked: 20.0
+Pay Rate:     $13.00
+OT Pay Rate: 20.00
+Gross Salary: $200.00
+Taxes:        $50.00
+Net Income:   $150.00

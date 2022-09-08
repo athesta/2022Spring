@@ -1,0 +1,12 @@
+Hours Worked: 80.0
+Pay Rate:     $10.00
+OT Pay Rate:  2.00
+Gross Salary: $1200.00
+Taxes:        $396.00
+Net Income:   $804.00
+----------------------------------------------------------
+----------------------------------------------------------
+Number of Employees Processed:	1
+Total Payroll:			$1200.00
+Total Taxes:			$396.00
+Payroll Checks Total:		$804.00

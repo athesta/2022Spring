@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;companyAPI&apos; to &apos;company2API&apos;&#x0D;&#x0A;- Original project: &apos;APC350_Demo_Files&apos;&#x0D;&#x0A;- Original element: &apos;APC350_Demo_Files/Lesson11/ClassesWithArrayOfObjectsDynamicDemo/src/companyAPI&apos;&#x0D;&#x0A;- Renamed element: &apos;APC350_Demo_Files/Lesson11/ClassesWithArrayOfObjectsDynamicDemo/src/company2API&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;companyAPI&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/Lesson11\/ClassesWithArrayOfObjectsDynamicDemo\/src&lt;companyAPI" name="company2API" qualified="false" references="true" stamp="1650908982138" textual="false" version="1.0"/>
+</session>

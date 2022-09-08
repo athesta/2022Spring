@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1643253178966_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1643253178982_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1661999689966_3" label="Demos" name="Demos">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/CopyConstructorDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PartiallyFilledArrayDemo" type="4"/>
+<item elementID="=FileIODemo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MethodOverridingDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PublicVsPrivateMembersDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ArraysAsParametersDemo" type="4"/>
+<item elementID="=EventHandlingDemo1" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/voidMethodWithParametersDemo3" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/primitiveVsReferenceDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ConstructorsDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/valueReturningMethodDemo" type="4"/>
+<item elementID="=DerivedClassConstructionDemo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=MultiDArraysDemo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/UserDefinedClassesDemo" type="4"/>
+<item elementID="=ClassesWithArrayOfObjectsDynamicDemo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ArrayOfClassObjectsDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/mostBasciMethodDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PackageDemo" type="4"/>
+<item elementID="=ArrayComparisonDemo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ScopeOfIdentifiersDemo" type="4"/>
+<item elementID="=EventHandlingDemo2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ArraysOfPrimitiveDataTypeDemo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ClassesWithArrayMembersDemo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ProtectedMembersDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/PredefinedClassesDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/UMLDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DefaultConstructionAndInheritanceDemo" type="4"/>
+<item elementID="=ClassesWithArrayOfObjectsDemo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ArrayReadingElementsSequentiallyDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JOptionPaneDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ToStringDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/increamentalDevelopmentDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TwoDArraysDemo" type="4"/>
+<item elementID="=ParallelArraysDemo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/methodOverloadingDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/TwoDArraySequentialProcessingDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/MethodOverridingUsingSuperDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ArrayComparisonUsingMethodsDemo" type="4"/>
+<item elementID="=ArraysAsReturnTypesDemo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ArraySequentialProcessingDemo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Lesson13" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1662000019284_5" label="Prog2Projects" name="Prog2Projects">
+<item elementID="=assignment_3" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Assignment_1" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Assignment_4" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Assignment_5" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Assignment_6" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Assignment2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1643253179810_2" label="Window Working Set" name="Aggregate for window 1643253179809"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1661999799712_4" label="Multiple Working Sets" name="Aggregate:Demos:Java Main Sources:Java Test Sources:">
+<workingSet IMemento.internal.id="Demos"/>
+<workingSet IMemento.internal.id="Java Main Sources"/>
+<workingSet IMemento.internal.id="Java Test Sources"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1662000038379_6" label="Multiple Working Sets" name="Aggregate:Demos:Prog2Projects:">
+<workingSet IMemento.internal.id="Demos"/>
+<workingSet IMemento.internal.id="Prog2Projects"/>
+</workingSet>
+</workingSetManager>
